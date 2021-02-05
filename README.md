@@ -1,1 +1,1 @@
-# Walmart-Prototype
+# BuyKar-Ecommerce-Portal
