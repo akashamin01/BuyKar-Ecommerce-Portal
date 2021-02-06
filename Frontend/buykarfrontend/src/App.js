@@ -4,7 +4,7 @@ export default () => {
 
   return (
     <div>
-      <h1>BuyKar An E Commerce App</h1>
+      <h1>BuyKar An E Commerce Portal</h1>
     </div>
   );
 };
